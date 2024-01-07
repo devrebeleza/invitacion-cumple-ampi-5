@@ -210,7 +210,7 @@
 
 .background-text{
 	background: #1010125c;
-	margin-top: 5% !important;
+	margin-top: 2% !important;
 	display:inline-block;
     margin-left:auto;
     margin-right:auto;
@@ -285,6 +285,10 @@
   	-ms-transform: translate(-60%, -60%);
 	transform: translate(-60%, -60%);
 	-webkit-animation: move-left-rigth 10s linear infinite;
+}
+
+.audio-st{
+	margin-top: 3% !important;
 }
 
 @-webkit-keyframes jump {
@@ -395,6 +399,10 @@
 	.turtle-fly{
 		width: 19% !important;
 	}
+
+	.audio-st{
+		margin-top: 7% !important;
+	}
 }
 
 @media (max-width: 767px) {
@@ -441,6 +449,10 @@
 
 	.turtle-fly{
 		width: 19% !important;
+	}
+
+	.audio-st{
+		margin-top: 4% !important;
 	}
 }
 
@@ -501,5 +513,9 @@
 
 	.turtle-fly{
 		width: 19% !important;
+	}
+
+	.audio-st{
+		margin-top: 11% !important;
 	}
 }
