@@ -284,7 +284,7 @@
   	//left: 40%;
   	-ms-transform: translate(-60%, -60%);
 	transform: translate(-60%, -60%);
-	-webkit-animation: move-left-rigth 10s linear infinite;
+	-webkit-animation: move-left-rigth 5s linear infinite;
 }
 
 .audio-st{
